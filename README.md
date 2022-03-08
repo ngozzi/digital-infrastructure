@@ -34,11 +34,11 @@ All the dataset but the internet Speedtest measurements from Ookla are publicly 
   - El Salvador: https://diario.innovacion.gob.sv
 - GDP data:
   - Colombia:https://www.dane.gov.co/index.php/estadisticas-por-tema/cuentas-nacionales/cuentas-nacionales-departamentales
-  - Ecuador: J. Illingworth and F. Campana. Informe sobre Desarrollo Humano del Ecuador. Fundaci ́on Ecuador, 2019
+  - Ecuador: J. Illingworth and F. Campana. Informe sobre Desarrollo Humano del Ecuador. Fundacion Ecuador, 2019
   - El Salvador:  https://www.sv.undp.org/content/el_salvador/es/home/library/hiv_aids/almanaque-262.html
 - HDI/MDP data:
   - Colombia: https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-y-desigualdad/medida-de-pobreza-multidimensional-de-fuente-censal
-  - Ecuador: J. Illingworth and F. Campana. Informe sobre Desarrollo Humano del Ecuador. Fundaci ́on Ecuador, 2019
+  - Ecuador: J. Illingworth and F. Campana. Informe sobre Desarrollo Humano del Ecuador. Fundacion Ecuador, 2019
   - El Salvador: https://www.sv.undp.org/content/el_salvador/es/home/library/hiv_aids/almanaque-262.html
 - Colombia - Fixed Internet Penetration at the Municipal Level: https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Internet-Fijo-Penetraci-n-Municipio/fut2-keu8
 - Colombia - Employment: http://datlascolombia.com/#/downloads
