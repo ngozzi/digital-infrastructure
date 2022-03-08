@@ -21,7 +21,10 @@ The folder ```code``` contains the Python code to reproduce the main analyses of
 
 
 ### Data sources
-All the dataset but the internet Speedtest measurements from Ookla are publicly available:
+All the dataset but the internet Speedtest measurements from Ookla are publicly available. <u>The Ookla dataset is instead proprietary and cannot be shared publicly</u>
+
+
+
 - Movement Range Maps: https://data.humdata.org/dataset/movement-range-maps?
 - Oxford Covid-19 Government Response Tracker: https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker
 - High-Resolution Density Maps: https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps
