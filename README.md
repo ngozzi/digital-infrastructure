@@ -7,7 +7,7 @@ Abstract: Adherence to the non-pharmaceutical interventions (NPIs) put in place 
 
 ### Instructions
 The folder ```data``` contains a subfolder for each country (```colombia```, ```ecuador```, ```el-salvador```). Each subfolder contains the data for the analysis:
-- ```master-files```: ```.shp``` files with all the information regarding the municipalities of the country (geopgraphic polygons, population, GDP, HDI, population density, demographic, internet speed, etc)
+- ```master-files```: ```.shp``` files with all the information regarding the municipalities of the country (geographic polygons, population, GDP, HDI, population density, demographic, internet speed, etc)
 - ```fb-movement-range-maps```: Movement Range Maps data from Data for Good at Meta Program
 - ```oxford-policy-report```: Oxford Covid-19 Government Response Tracker (OxCGRT) data
 - ```epidemiological-data```: number of new cases / deaths in different municipalities
