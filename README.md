@@ -10,7 +10,7 @@ The folder ```data``` contains a subfolder for each country (```colombia```, ```
 - ```master-files```: ```.shp``` files with all the information regarding the municipalities of the country (geographic polygons, population, GDP, HDI, population density, demographic, internet speed, etc)
 - ```fb-movement-range-maps```: Movement Range Maps data from Data for Good at Meta Program
 - ```oxford-policy-report```: Oxford Covid-19 Government Response Tracker (OxCGRT) data
-- ```epidemiological-data```: number of new cases / deaths in different municipalities
+- ```epidemiological-data```: number of new COVID-19 cases in different municipalities
 
 
 The folder ```code``` contains the Python code to reproduce the main analyses of the paper, in particular:
