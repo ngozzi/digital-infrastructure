@@ -21,10 +21,10 @@ The folder ```code``` contains the Python code to reproduce the main analyses of
 
 
 ### Data sources
-All the dataset but the internet Speedtest measurements from Ookla are publicly available. <ins> The Ookla dataset is instead proprietary and cannot be shared publicly </ins> 
+All the dataset but the internet Speedtest measurements from Ookla are publicly available. <ins> The Ookla dataset is instead proprietary and cannot be shared publicly </ins>. Therefore, in the ```data``` folder, variables that are derived from Ookla datasets are either intentionally set to constant or missing. As a consequence, running the code will return errors or results that are inconsistent with those reported in the paper. Nonetheless, we report in ```code/correlations/correlations-in-time```, ```code/regressions/output-static```, and ```code/regressions/output-time``` the values of correlations and regression parameters obtained with the full dataset.
 
 
-
+List of data sources:
 - Movement Range Maps: https://data.humdata.org/dataset/movement-range-maps?
 - Oxford Covid-19 Government Response Tracker: https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker
 - High-Resolution Density Maps: https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps
