@@ -25,7 +25,7 @@ All the dataset but the internet Speedtest measurements from Ookla are publicly 
 
 
 List of data sources:
-- Movement Range Maps: https://data.humdata.org/dataset/movement-range-maps?
+- Movement Range Maps: https://data.humdata.org/dataset/movement-range-maps
 - Oxford Covid-19 Government Response Tracker: https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker
 - High-Resolution Density Maps: https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps
 - Colombia - Municipality Population: https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/proyecciones-de-poblacion
