@@ -21,7 +21,7 @@ The folder ```code``` contains the Python code to reproduce the main analyses of
 
 
 ### Data sources
-All the dataset but the internet Speedtest measurements from Ookla are publicly available. <u>The Ookla dataset is instead proprietary and cannot be shared publicly</u>
+All the dataset but the internet Speedtest measurements from Ookla are publicly available. <ins> The Ookla dataset is instead proprietary and cannot be shared publicly </ins> 
 
 
 
