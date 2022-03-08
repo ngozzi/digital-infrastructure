@@ -25,7 +25,7 @@ All the dataset but the internet Speedtest measurements from Ookla are publicly 
 - Movement Range Maps: https://data.humdata.org/dataset/movement-range-maps?
 - Oxford Covid-19 Government Response Tracker: https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker
 - High-Resolution Density Maps: https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps
-- Municipality Population - Colombia: https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/proyecciones-de-poblacion
+- Colombia - Municipality Population: https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/proyecciones-de-poblacion
 - Relative Wealth Index: https://data.humdata.org/dataset/relative-wealth-index
 - Geographic data: https://gadm.org/download_country.html
 - Epidemiological data:
@@ -40,3 +40,5 @@ All the dataset but the internet Speedtest measurements from Ookla are publicly 
   - Colombia: https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-y-desigualdad/medida-de-pobreza-multidimensional-de-fuente-censal
   - Ecuador: J. Illingworth and F. Campana. Informe sobre Desarrollo Humano del Ecuador. Fundaci ́on Ecuador, 2019
   - El Salvador: https://www.sv.undp.org/content/el_salvador/es/home/library/hiv_aids/almanaque-262.html
+- Colombia - Fixed Internet Penetration at the Municipal Level: https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Internet-Fijo-Penetraci-n-Municipio/fut2-keu8
+- Colombia - Employment: http://datlascolombia.com/#/downloads
