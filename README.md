@@ -7,7 +7,7 @@ Abstract: Adherence to the non-pharmaceutical interventions (NPIs) put in place 
 
 ### Instructions
 The folder ```data``` contains a subfolder for each country (```colombia```, ```ecuador```, ```el-salvador```). Each subfolder contains the data for the analysis:
-- ```master-files```: ```.shp``` files with all the information regarding the municipalities of the country (geographic polygons, population, GDP, HDI, population density, demographic, internet speed, etc)
+- ```master-files```: ```.shp``` files with all the information regarding the municipalities of the country (population, GDP, population density, demographic, internet speed, etc)
 - ```fb-movement-range-maps```: Movement Range Maps data from Data for Good at Meta Program
 - ```oxford-policy-report```: Oxford Covid-19 Government Response Tracker (OxCGRT) data
 - ```epidemiological-data```: number of new COVID-19 cases in different municipalities
@@ -21,8 +21,7 @@ The folder ```code``` contains the Python code to reproduce the main analyses of
 
 
 ### Data sources
-All the dataset but the internet Speedtest measurements from Ookla are publicly available. <ins> The Ookla dataset is instead proprietary and cannot be shared publicly </ins>. Therefore, in the ```data``` folder, variables that are derived from Ookla datasets are either intentionally set to constant or missing. As a consequence, running the code will lead to errors or results that are inconsistent with those reported in the paper. Nonetheless, we report in ```code/correlations/correlations-in-time```, ```code/regressions/output-static```, and ```code/regressions/output-time``` the values of correlations and regression parameters obtained with the full dataset.
-
+All the dataset but the internet Speedtest measurements from Ookla are publicly available. <ins> The full Ookla dataset is instead proprietary and cannot be shared publicly, nonetheless in the repository we provide measures derived from this dataset aggregated at the municipal level</ins>.
 
 List of data sources:
 - Movement Range Maps: https://data.humdata.org/dataset/movement-range-maps
