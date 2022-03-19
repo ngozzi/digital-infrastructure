@@ -1,5 +1,4 @@
 import pandas as pd
-import geopandas as gpd
 
 
 def import_policy(country, path_to_data):
@@ -21,12 +20,7 @@ def import_gadm(country, path_to_data):
     :return GADM df
     """
     # import data
-    gadm2 = gpd.read_file(
-        path_to_data + country + "/master-files/master_file.shp").join(pd.read_csv(
-        path_to_data + country + "/master-files/master_file.csv"))
-
-    gadm2["area"] = gadm2.geometry.to_crs({'init': 'epsg:3857'}).area / 10 ** 6
-    gadm2["pop_density"] = gadm2["pop2020"] / gadm2["area"]
+    gadm2 = pd.read_csv(path_to_data + country + "/master-files/master_file.csv")
     return gadm2
 
 
